@@ -1,0 +1,471 @@
+Suburb,Price,Date,CouncilArea
+Flemington,957000.0,22/05/2016,Melbourne
+Kensington,785000.0,3/09/2016,Melbourne
+Kensington,852000.0,3/09/2016,Melbourne
+Kensington,1037000.0,3/09/2016,Melbourne
+Kensington,775000.0,3/12/2016,Melbourne
+Kensington,1470000.0,4/03/2017,Melbourne
+Kensington,630000.0,4/03/2017,Melbourne
+Kensington,492500.0,4/06/2016,Melbourne
+Kensington,420000.0,4/06/2016,Melbourne
+Kensington,650000.0,4/06/2016,Melbourne
+Kensington,1050000.0,4/06/2016,Melbourne
+Kensington,1291000.0,6/08/2016,Melbourne
+Kensington,420000.0,6/08/2016,Melbourne
+Kensington,961000.0,7/05/2016,Melbourne
+Kensington,1271000.0,7/05/2016,Melbourne
+Kensington,1010000.0,7/05/2016,Melbourne
+Kensington,750000.0,7/05/2016,Melbourne
+Kensington,1675000.0,7/05/2016,Melbourne
+Kensington,905000.0,8/10/2016,Melbourne
+Kensington,960000.0,8/10/2016,Melbourne
+Kensington,1031000.0,8/10/2016,Melbourne
+Kensington,918000.0,8/10/2016,Melbourne
+Kensington,870000.0,8/10/2016,Melbourne
+Kensington,1165000.0,10/09/2016,Melbourne
+Kensington,1710000.0,10/09/2016,Melbourne
+Kensington,360000.0,10/12/2016,Melbourne
+Kensington,1455000.0,10/12/2016,Melbourne
+Kensington,365000.0,10/12/2016,Melbourne
+Kensington,551000.0,10/12/2016,Melbourne
+Kensington,442000.0,10/12/2016,Melbourne
+Kensington,765000.0,10/12/2016,Melbourne
+Kensington,515000.0,11/02/2017,Melbourne
+Kensington,370000.0,12/06/2016,Melbourne
+Kensington,1005000.0,12/11/2016,Melbourne
+Kensington,1234500.0,13/08/2016,Melbourne
+Kensington,666000.0,13/08/2016,Melbourne
+Kensington,825000.0,14/05/2016,Melbourne
+Kensington,770000.0,14/05/2016,Melbourne
+Kensington,1135000.0,15/10/2016,Melbourne
+Kensington,975000.0,15/10/2016,Melbourne
+Kensington,812000.0,16/04/2016,Melbourne
+Kensington,1900000.0,16/04/2016,Melbourne
+Kensington,732000.0,18/06/2016,Melbourne
+Kensington,1260000.0,19/11/2016,Melbourne
+Kensington,1000000.0,19/11/2016,Melbourne
+Kensington,700000.0,19/11/2016,Melbourne
+Kensington,813500.0,22/05/2016,Melbourne
+Kensington,526000.0,22/08/2016,Melbourne
+Kensington,790000.0,22/08/2016,Melbourne
+Kensington,700000.0,22/08/2016,Melbourne
+Kensington,370000.0,22/08/2016,Melbourne
+Kensington,1230000.0,22/08/2016,Melbourne
+Kensington,460000.0,23/04/2016,Melbourne
+Kensington,395000.0,23/04/2016,Melbourne
+Kensington,1001000.0,24/09/2016,Melbourne
+Kensington,850000.0,24/09/2016,Melbourne
+Kensington,1335000.0,25/02/2017,Melbourne
+Kensington,868000.0,25/02/2017,Melbourne
+Kensington,960000.0,26/07/2016,Melbourne
+Kensington,773000.0,26/07/2016,Melbourne
+Kensington,631090.0,27/06/2016,Melbourne
+Kensington,410000.0,27/06/2016,Melbourne
+Kensington,425000.0,27/11/2016,Melbourne
+Kensington,1211000.0,27/11/2016,Melbourne
+Kensington,506000.0,27/11/2016,Melbourne
+Kensington,806000.0,28/05/2016,Melbourne
+Kensington,829000.0,28/05/2016,Melbourne
+Kensington,786000.0,28/08/2016,Melbourne
+Kensington,458000.0,30/07/2016,Melbourne
+Melbourne,427000.0,3/12/2016,Melbourne
+Melbourne,1160500.0,4/03/2017,Melbourne
+Melbourne,780000.0,4/06/2016,Melbourne
+Melbourne,535000.0,7/05/2016,Melbourne
+Melbourne,450000.0,7/11/2016,Melbourne
+Melbourne,360000.0,7/11/2016,Melbourne
+Melbourne,665000.0,7/11/2016,Melbourne
+Melbourne,386000.0,10/09/2016,Melbourne
+Melbourne,659000.0,10/09/2016,Melbourne
+Melbourne,671000.0,10/12/2016,Melbourne
+Melbourne,545000.0,12/11/2016,Melbourne
+Melbourne,450000.0,12/11/2016,Melbourne
+Melbourne,432000.0,13/08/2016,Melbourne
+Melbourne,400000.0,13/08/2016,Melbourne
+Melbourne,210000.0,13/08/2016,Melbourne
+Melbourne,750000.0,15/10/2016,Melbourne
+Melbourne,375000.0,15/10/2016,Melbourne
+Melbourne,680000.0,17/09/2016,Melbourne
+Melbourne,470000.0,18/03/2017,Melbourne
+Melbourne,650000.0,18/03/2017,Melbourne
+Melbourne,483000.0,18/03/2017,Melbourne
+Melbourne,610000.0,18/06/2016,Melbourne
+Melbourne,700000.0,19/11/2016,Melbourne
+Melbourne,520000.0,19/11/2016,Melbourne
+Melbourne,440000.0,22/08/2016,Melbourne
+Melbourne,436000.0,23/04/2016,Melbourne
+Melbourne,733000.0,24/09/2016,Melbourne
+Melbourne,675000.0,24/09/2016,Melbourne
+Melbourne,1630000.0,25/02/2017,Melbourne
+Melbourne,760000.0,28/05/2016,Melbourne
+Melbourne,360000.0,28/08/2016,Melbourne
+Melbourne,390000.0,30/07/2016,Melbourne
+North Melbourne,2920000.0,3/09/2016,Melbourne
+North Melbourne,1635000.0,3/09/2016,Melbourne
+North Melbourne,491000.0,3/09/2016,Melbourne
+North Melbourne,540000.0,3/12/2016,Melbourne
+North Melbourne,340000.0,3/12/2016,Melbourne
+North Melbourne,726000.0,4/03/2017,Melbourne
+North Melbourne,1340000.0,4/03/2017,Melbourne
+North Melbourne,1105000.0,4/03/2017,Melbourne
+North Melbourne,841000.0,4/03/2017,Melbourne
+North Melbourne,528500.0,4/06/2016,Melbourne
+North Melbourne,585000.0,4/06/2016,Melbourne
+North Melbourne,645000.0,7/05/2016,Melbourne
+North Melbourne,410000.0,7/11/2016,Melbourne
+North Melbourne,550000.0,7/11/2016,Melbourne
+North Melbourne,470000.0,7/11/2016,Melbourne
+North Melbourne,470000.0,7/11/2016,Melbourne
+North Melbourne,475000.0,8/10/2016,Melbourne
+North Melbourne,640000.0,8/10/2016,Melbourne
+North Melbourne,1330000.0,10/09/2016,Melbourne
+North Melbourne,720000.0,10/12/2016,Melbourne
+North Melbourne,888000.0,10/12/2016,Melbourne
+North Melbourne,1325000.0,10/12/2016,Melbourne
+North Melbourne,368000.0,10/12/2016,Melbourne
+North Melbourne,1300000.0,11/02/2017,Melbourne
+North Melbourne,450000.0,12/11/2016,Melbourne
+North Melbourne,1385000.0,13/08/2016,Melbourne
+North Melbourne,990000.0,15/10/2016,Melbourne
+North Melbourne,440000.0,16/04/2016,Melbourne
+North Melbourne,606000.0,16/04/2016,Melbourne
+North Melbourne,450000.0,16/07/2016,Melbourne
+North Melbourne,1470000.0,17/09/2016,Melbourne
+North Melbourne,591500.0,17/09/2016,Melbourne
+North Melbourne,1300000.0,18/06/2016,Melbourne
+North Melbourne,1010000.0,19/11/2016,Melbourne
+North Melbourne,1266000.0,19/11/2016,Melbourne
+North Melbourne,620000.0,19/11/2016,Melbourne
+North Melbourne,540000.0,22/08/2016,Melbourne
+North Melbourne,1200000.0,24/09/2016,Melbourne
+North Melbourne,630000.0,24/09/2016,Melbourne
+North Melbourne,560000.0,25/02/2017,Melbourne
+North Melbourne,800000.0,27/06/2016,Melbourne
+North Melbourne,665500.0,27/11/2016,Melbourne
+North Melbourne,550055.0,27/11/2016,Melbourne
+North Melbourne,358000.0,27/11/2016,Melbourne
+North Melbourne,320000.0,27/11/2016,Melbourne
+North Melbourne,1000000.0,27/11/2016,Melbourne
+North Melbourne,598000.0,27/11/2016,Melbourne
+North Melbourne,950000.0,28/05/2016,Melbourne
+North Melbourne,1065000.0,28/05/2016,Melbourne
+North Melbourne,885000.0,28/08/2016,Melbourne
+North Melbourne,587134.0,28/08/2016,Melbourne
+Parkville,1230000.0,3/09/2016,Melbourne
+Parkville,1360000.0,3/12/2016,Melbourne
+Parkville,1805000.0,8/10/2016,Melbourne
+Parkville,352500.0,8/10/2016,Melbourne
+Parkville,395000.0,11/02/2017,Melbourne
+Parkville,307000.0,15/10/2016,Melbourne
+Parkville,2200000.0,15/10/2016,Melbourne
+Parkville,485000.0,15/10/2016,Melbourne
+Parkville,1717500.0,19/11/2016,Melbourne
+Parkville,1265000.0,19/11/2016,Melbourne
+Parkville,401000.0,19/11/2016,Melbourne
+Parkville,2375000.0,19/11/2016,Melbourne
+Parkville,1851000.0,22/08/2016,Melbourne
+Parkville,734600.0,22/08/2016,Melbourne
+Parkville,1928000.0,24/09/2016,Melbourne
+Parkville,526000.0,25/02/2017,Melbourne
+Parkville,2236000.0,27/06/2016,Melbourne
+Parkville,500000.0,27/11/2016,Melbourne
+Parkville,1403000.0,27/11/2016,Melbourne
+Parkville,965000.0,28/08/2016,Melbourne
+Parkville,1040000.0,28/08/2016,Melbourne
+Parkville,526000.0,30/07/2016,Melbourne
+Parkville,750000.0,30/07/2016,Melbourne
+Port Melbourne,1000000.0,4/06/2016,Melbourne
+Port Melbourne,600000.0,4/06/2016,Melbourne
+Port Melbourne,795000.0,6/08/2016,Melbourne
+Port Melbourne,590000.0,6/08/2016,Melbourne
+Port Melbourne,1275000.0,7/05/2016,Melbourne
+Port Melbourne,1000000.0,7/05/2016,Melbourne
+Port Melbourne,1820000.0,7/11/2016,Melbourne
+Port Melbourne,655000.0,10/09/2016,Melbourne
+Port Melbourne,1016500.0,10/09/2016,Melbourne
+Port Melbourne,1350000.0,10/09/2016,Melbourne
+Port Melbourne,1101000.0,10/12/2016,Melbourne
+Port Melbourne,875000.0,18/06/2016,Melbourne
+Port Melbourne,1384000.0,18/06/2016,Melbourne
+Port Melbourne,720000.0,22/05/2016,Melbourne
+Port Melbourne,1130000.0,22/05/2016,Melbourne
+Port Melbourne,600000.0,22/08/2016,Melbourne
+Port Melbourne,779000.0,24/09/2016,Melbourne
+Port Melbourne,790000.0,24/09/2016,Melbourne
+Port Melbourne,455500.0,24/09/2016,Melbourne
+Port Melbourne,1350000.0,27/11/2016,Melbourne
+Port Melbourne,2100000.0,27/11/2016,Melbourne
+Port Melbourne,400000.0,28/05/2016,Melbourne
+Port Melbourne,1405000.0,30/07/2016,Melbourne
+South Yarra,1230000.0,3/12/2016,Melbourne
+South Yarra,695000.0,4/03/2017,Melbourne
+South Yarra,863000.0,4/03/2017,Melbourne
+South Yarra,680000.0,4/03/2017,Melbourne
+South Yarra,750000.0,4/06/2016,Melbourne
+South Yarra,572000.0,4/06/2016,Melbourne
+South Yarra,1460000.0,4/06/2016,Melbourne
+South Yarra,659000.0,7/11/2016,Melbourne
+South Yarra,1300000.0,8/10/2016,Melbourne
+South Yarra,1300000.0,8/10/2016,Melbourne
+South Yarra,1630000.0,10/09/2016,Melbourne
+South Yarra,555000.0,12/11/2016,Melbourne
+South Yarra,2695000.0,12/11/2016,Melbourne
+South Yarra,805000.0,12/11/2016,Melbourne
+South Yarra,360000.0,12/11/2016,Melbourne
+South Yarra,832000.0,15/10/2016,Melbourne
+South Yarra,3000000.0,15/10/2016,Melbourne
+South Yarra,805000.0,17/09/2016,Melbourne
+South Yarra,2050000.0,18/03/2017,Melbourne
+South Yarra,2600000.0,18/03/2017,Melbourne
+South Yarra,567500.0,19/11/2016,Melbourne
+South Yarra,540000.0,22/05/2016,Melbourne
+South Yarra,310000.0,23/04/2016,Melbourne
+South Yarra,520000.0,26/07/2016,Melbourne
+South Yarra,260800.0,28/05/2016,Melbourne
+South Yarra,826000.0,28/08/2016,Melbourne
+South Yarra,910000.0,28/08/2016,Melbourne
+South Yarra,1715000.0,28/08/2016,Melbourne
+South Yarra,1700000.0,28/08/2016,Melbourne
+Southbank,720000.0,3/09/2016,Melbourne
+Southbank,385500.0,4/03/2017,Melbourne
+Southbank,868000.0,4/06/2016,Melbourne
+Southbank,590000.0,4/06/2016,Melbourne
+Southbank,530000.0,4/06/2016,Melbourne
+Southbank,650000.0,6/08/2016,Melbourne
+Southbank,990000.0,7/05/2016,Melbourne
+Southbank,623000.0,7/05/2016,Melbourne
+Southbank,592500.0,7/05/2016,Melbourne
+Southbank,600000.0,7/11/2016,Melbourne
+Southbank,485000.0,10/09/2016,Melbourne
+Southbank,455000.0,11/02/2017,Melbourne
+Southbank,569000.0,11/03/2017,Melbourne
+Southbank,1220000.0,12/11/2016,Melbourne
+Southbank,1250000.0,12/11/2016,Melbourne
+Southbank,430000.0,12/11/2016,Melbourne
+Southbank,480000.0,14/05/2016,Melbourne
+Southbank,425000.0,16/04/2016,Melbourne
+Southbank,815000.0,16/07/2016,Melbourne
+Southbank,580000.0,18/03/2017,Melbourne
+Southbank,700000.0,18/06/2016,Melbourne
+Southbank,660000.0,19/11/2016,Melbourne
+Southbank,622500.0,22/05/2016,Melbourne
+Southbank,690000.0,23/04/2016,Melbourne
+Southbank,800000.0,24/09/2016,Melbourne
+Southbank,540000.0,24/09/2016,Melbourne
+Southbank,370000.0,30/07/2016,Melbourne
+Southbank,720000.0,30/07/2016,Melbourne
+West Melbourne,1010000.0,3/09/2016,Melbourne
+West Melbourne,650000.0,3/12/2016,Melbourne
+West Melbourne,1260000.0,4/06/2016,Melbourne
+West Melbourne,460000.0,4/06/2016,Melbourne
+West Melbourne,2370000.0,4/06/2016,Melbourne
+West Melbourne,800000.0,6/08/2016,Melbourne
+West Melbourne,550000.0,7/05/2016,Melbourne
+West Melbourne,660000.0,7/05/2016,Melbourne
+West Melbourne,1055000.0,8/10/2016,Melbourne
+West Melbourne,995000.0,18/03/2017,Melbourne
+West Melbourne,1130000.0,18/06/2016,Melbourne
+West Melbourne,443000.0,24/09/2016,Melbourne
+West Melbourne,1120000.0,25/02/2017,Melbourne
+West Melbourne,482000.0,26/07/2016,Melbourne
+West Melbourne,620000.0,28/05/2016,Melbourne
+West Melbourne,2100000.0,28/05/2016,Melbourne
+West Melbourne,601000.0,30/07/2016,Melbourne
+Carlton,735000.0,3/12/2016,Melbourne
+Carlton,1460000.0,4/03/2017,Melbourne
+Carlton,860000.0,4/06/2016,Melbourne
+Carlton,1662000.0,7/05/2016,Melbourne
+Carlton,1590000.0,7/05/2016,Melbourne
+Carlton,610250.0,7/05/2016,Melbourne
+Carlton,720000.0,7/05/2016,Melbourne
+Carlton,840000.0,8/10/2016,Melbourne
+Carlton,795000.0,10/12/2016,Melbourne
+Carlton,705000.0,12/11/2016,Melbourne
+Carlton,435000.0,13/08/2016,Melbourne
+Carlton,1630100.0,14/05/2016,Melbourne
+Carlton,480000.0,14/05/2016,Melbourne
+Carlton,1600000.0,14/05/2016,Melbourne
+Carlton,500000.0,14/05/2016,Melbourne
+Carlton,920000.0,15/10/2016,Melbourne
+Carlton,1600000.0,17/09/2016,Melbourne
+Carlton,1010000.0,18/03/2017,Melbourne
+Carlton,875000.0,18/03/2017,Melbourne
+Carlton,1170000.0,18/06/2016,Melbourne
+Carlton,1260000.0,18/06/2016,Melbourne
+Carlton,600000.0,22/05/2016,Melbourne
+Carlton,310000.0,22/05/2016,Melbourne
+Carlton,1550000.0,22/08/2016,Melbourne
+Carlton,2033000.0,23/04/2016,Melbourne
+Carlton,1110000.0,24/09/2016,Melbourne
+Carlton,2705000.0,25/02/2017,Melbourne
+Carlton,1616000.0,25/02/2017,Melbourne
+Carlton,585000.0,27/11/2016,Melbourne
+Carlton,1162000.0,27/11/2016,Melbourne
+Carlton,589000.0,28/05/2016,Melbourne
+Carlton,2345000.0,28/08/2016,Melbourne
+Carlton,1117000.0,28/08/2016,Melbourne
+Carlton,600000.0,30/07/2016,Melbourne
+Carlton,957000.0,30/07/2016,Melbourne
+East Melbourne,4525000.0,3/12/2016,Melbourne
+East Melbourne,3520000.0,4/06/2016,Melbourne
+East Melbourne,740000.0,8/10/2016,Melbourne
+East Melbourne,1015000.0,8/10/2016,Melbourne
+East Melbourne,1400000.0,8/10/2016,Melbourne
+East Melbourne,1935000.0,16/07/2016,Melbourne
+East Melbourne,1475000.0,18/06/2016,Melbourne
+East Melbourne,700000.0,22/08/2016,Melbourne
+East Melbourne,565000.0,24/09/2016,Melbourne
+East Melbourne,900000.0,25/02/2017,Melbourne
+East Melbourne,630000.0,25/02/2017,Melbourne
+East Melbourne,750000.0,28/05/2016,Melbourne
+East Melbourne,872000.0,28/05/2016,Melbourne
+East Melbourne,765000.0,28/08/2016,Melbourne
+Docklands,360000.0,10/12/2016,Melbourne
+Docklands,1370000.0,13/08/2016,Melbourne
+Docklands,800000.0,27/06/2016,Melbourne
+Melbourne,432000.0,6/05/2017,Melbourne
+Melbourne,1850000.0,8/04/2017,Melbourne
+Melbourne,333000.0,8/04/2017,Melbourne
+Melbourne,452000.0,13/05/2017,Melbourne
+Melbourne,895000.0,22/04/2017,Melbourne
+Melbourne,275000.0,22/04/2017,Melbourne
+Melbourne,683000.0,22/04/2017,Melbourne
+Melbourne,640000.0,22/04/2017,Melbourne
+Parkville,835000.0,6/05/2017,Melbourne
+Parkville,3970000.0,13/05/2017,Melbourne
+Parkville,2790000.0,20/05/2017,Melbourne
+South Yarra,920000.0,13/05/2017,Melbourne
+South Yarra,642000.0,13/05/2017,Melbourne
+South Yarra,390500.0,29/04/2017,Melbourne
+South Yarra,2050000.0,29/04/2017,Melbourne
+Carlton,1520000.0,8/04/2017,Melbourne
+Carlton,960000.0,20/05/2017,Melbourne
+Carlton,995000.0,22/04/2017,Melbourne
+Carlton,490000.0,29/04/2017,Melbourne
+Carlton,500000.0,29/04/2017,Melbourne
+East Melbourne,503000.0,8/04/2017,Melbourne
+East Melbourne,810000.0,13/05/2017,Melbourne
+East Melbourne,4275000.0,20/05/2017,Melbourne
+Kensington,355000.0,8/04/2017,Melbourne
+Kensington,425000.0,8/04/2017,Melbourne
+Kensington,535000.0,8/04/2017,Melbourne
+Kensington,500000.0,8/04/2017,Melbourne
+Kensington,525000.0,13/05/2017,Melbourne
+Kensington,1110000.0,20/05/2017,Melbourne
+Kensington,917500.0,20/05/2017,Melbourne
+Kensington,730000.0,20/05/2017,Melbourne
+Kensington,811000.0,20/05/2017,Melbourne
+Kensington,1190000.0,20/05/2017,Melbourne
+Kensington,903000.0,22/04/2017,Melbourne
+Kensington,902500.0,22/04/2017,Melbourne
+Kensington,1817000.0,22/04/2017,Melbourne
+Kensington,528000.0,22/04/2017,Melbourne
+Kensington,1000000.0,29/04/2017,Melbourne
+Kensington,380000.0,29/04/2017,Melbourne
+Kensington,1817000.0,29/04/2017,Melbourne
+North Melbourne,2161000.0,13/05/2017,Melbourne
+North Melbourne,1485000.0,20/05/2017,Melbourne
+North Melbourne,940000.0,29/04/2017,Melbourne
+Southbank,505000.0,8/04/2017,Melbourne
+Southbank,595000.0,8/04/2017,Melbourne
+Southbank,580000.0,8/04/2017,Melbourne
+Southbank,580000.0,13/05/2017,Melbourne
+West Melbourne,1750000.0,13/05/2017,Melbourne
+West Melbourne,1013000.0,20/05/2017,Melbourne
+West Melbourne,1171000.0,20/05/2017,Melbourne
+West Melbourne,1053000.0,22/04/2017,Melbourne
+West Melbourne,295000.0,29/04/2017,Melbourne
+Carlton,350000.0,1/07/2017,Melbourne
+Carlton,620000.0,1/07/2017,Melbourne
+Carlton,1760000.0,1/07/2017,Melbourne
+Kensington,967000.0,1/07/2017,Melbourne
+Kensington,850000.0,1/07/2017,Melbourne
+Kensington,500000.0,1/07/2017,Melbourne
+Kensington,535000.0,1/07/2017,Melbourne
+North Melbourne,550000.0,1/07/2017,Melbourne
+North Melbourne,962000.0,1/07/2017,Melbourne
+North Melbourne,936000.0,1/07/2017,Melbourne
+Kensington,855000.0,3/06/2017,Melbourne
+Kensington,990000.0,3/06/2017,Melbourne
+North Melbourne,970000.0,3/06/2017,Melbourne
+Parkville,1770000.0,3/06/2017,Melbourne
+South Yarra,2210000.0,3/06/2017,Melbourne
+South Yarra,2400000.0,3/06/2017,Melbourne
+Southbank,422000.0,3/06/2017,Melbourne
+Southbank,590000.0,3/06/2017,Melbourne
+West Melbourne,792000.0,3/06/2017,Melbourne
+East Melbourne,1875000.0,17/06/2017,Melbourne
+East Melbourne,1350000.0,17/06/2017,Melbourne
+Kensington,1070000.0,17/06/2017,Melbourne
+Kensington,730000.0,17/06/2017,Melbourne
+Kensington,392000.0,17/06/2017,Melbourne
+Kensington,1150000.0,17/06/2017,Melbourne
+Kensington,1415000.0,17/06/2017,Melbourne
+Kensington,370000.0,17/06/2017,Melbourne
+Melbourne,740000.0,17/06/2017,Melbourne
+North Melbourne,1000000.0,17/06/2017,Melbourne
+North Melbourne,780000.0,17/06/2017,Melbourne
+North Melbourne,550000.0,17/06/2017,Melbourne
+Parkville,850000.0,17/06/2017,Melbourne
+Parkville,900000.0,17/06/2017,Melbourne
+Southbank,642500.0,17/06/2017,Melbourne
+Southbank,422500.0,17/06/2017,Melbourne
+Carlton,1000000.0,24/06/2017,Melbourne
+Carlton,720000.0,24/06/2017,Melbourne
+East Melbourne,885000.0,24/06/2017,Melbourne
+Kensington,1250000.0,24/06/2017,Melbourne
+Kensington,395000.0,24/06/2017,Melbourne
+Kensington,840500.0,24/06/2017,Melbourne
+North Melbourne,570000.0,24/06/2017,Melbourne
+North Melbourne,850000.0,24/06/2017,Melbourne
+South Yarra,945000.0,24/06/2017,Melbourne
+West Melbourne,1370000.0,24/06/2017,Melbourne
+Carlton,1100000.0,27/05/2017,Melbourne
+Kensington,400000.0,27/05/2017,Melbourne
+Kensington,715000.0,27/05/2017,Melbourne
+Melbourne,720000.0,27/05/2017,Melbourne
+North Melbourne,1126000.0,27/05/2017,Melbourne
+North Melbourne,1746000.0,27/05/2017,Melbourne
+North Melbourne,799000.0,27/05/2017,Melbourne
+North Melbourne,1285000.0,27/05/2017,Melbourne
+Parkville,1560000.0,27/05/2017,Melbourne
+Southbank,600000.0,27/05/2017,Melbourne
+Southbank,600000.0,27/05/2017,Melbourne
+West Melbourne,660000.0,27/05/2017,Melbourne
+Kensington,438000.0,8/07/2017,Melbourne
+Kensington,710000.0,8/07/2017,Melbourne
+Kensington,390000.0,8/07/2017,Melbourne
+Melbourne,1075000.0,8/07/2017,Melbourne
+North Melbourne,785000.0,8/07/2017,Melbourne
+North Melbourne,620000.0,8/07/2017,Melbourne
+Parkville,800000.0,8/07/2017,Melbourne
+South Yarra,1855500.0,8/07/2017,Melbourne
+West Melbourne,670000.0,8/07/2017,Melbourne
+West Melbourne,510000.0,8/07/2017,Melbourne
+East Melbourne,1300000.0,12/08/2017,Melbourne
+Kensington,1225000.0,12/08/2017,Melbourne
+North Melbourne,1475000.0,12/08/2017,Melbourne
+North Melbourne,450000.0,12/08/2017,Melbourne
+North Melbourne,525000.0,12/08/2017,Melbourne
+South Yarra,1350000.0,12/08/2017,Melbourne
+South Yarra,940000.0,12/08/2017,Melbourne
+Southbank,625000.0,12/08/2017,Melbourne
+Kensington,840000.0,15/07/2017,Melbourne
+Kensington,535000.0,15/07/2017,Melbourne
+Melbourne,387000.0,15/07/2017,Melbourne
+North Melbourne,541000.0,15/07/2017,Melbourne
+West Melbourne,380000.0,15/07/2017,Melbourne
+West Melbourne,1900000.0,15/07/2017,Melbourne
+Carlton,920000.0,22/07/2017,Melbourne
+East Melbourne,895000.0,22/07/2017,Melbourne
+North Melbourne,465000.0,22/07/2017,Melbourne
+South Yarra,747500.0,22/07/2017,Melbourne
+Carlton,920000.0,29/07/2017,Melbourne
+Kensington,445000.0,29/07/2017,Melbourne
+Kensington,501000.0,29/07/2017,Melbourne
+Kensington,1060000.0,29/07/2017,Melbourne
+Melbourne,565000.0,29/07/2017,Melbourne
+Melbourne,540000.0,29/07/2017,Melbourne
+North Melbourne,681000.0,29/07/2017,Melbourne
+North Melbourne,1803000.0,29/07/2017,Melbourne
+Southbank,732000.0,29/07/2017,Melbourne
